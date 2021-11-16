@@ -13,9 +13,9 @@ function renderLicenseBadge(License) {
 function renderLicenseLink(License) {
   if (License !== 'None') {
     return `
-    The application is covered under the following license:
+The application is covered under the following license:
 
-    [${License}] (https://opensource.org/licenses/${License})
+[${License}](https://opensource.org/licenses/${License})
     `;
   } else {
     return ' ';
