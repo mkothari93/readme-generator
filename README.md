@@ -1,70 +1,75 @@
+# <strong>gdsfg a</strong>
+![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
-# <strong>ReadMe Generator</strong>
-
-![badge](https://img.shields.io/badge/License-APACHE-2.0-blue.svg)
-
+<br>
 
 ## <strong>Table-of-Contents</strong>
-
 ---
+* [Description](#description)
 
-*[Description](#description)
+* [License](#license)
 
-*[License](#license)
+* [Installation](#installation)
 
-*[Installation](#installation)
+* [Test](#test)
 
-*[Test](#test)
+* [Usage](#usage)
 
-*[Usage](#usage)
+* [Contributing](#contributing)
 
-*[Contributing](#contributing)
+* [Questions](#questions)
 
+<br>
 
 ## <strong>Description</strong>
-
 ---
+  gdfg dfsg 
 
-  Generates ReadMe file based on user specs
-
+<br>
 
 ## <strong>License</strong>
-
 ---
-
   
       
 The application is covered under the following license:
 
-[APACHE-2.0](https://opensource.org/licenses/APACHE-2.0)
+[MIT](https://opensource.org/licenses/MIT)
     
     
 
+<br>
 
 ## <strong>Installation</strong>
-
 ---
+  gfgds g\
 
-  npm i
-
+<br>
 
 ## <strong>Test</strong>
-
 ---
+  fgh sdf
 
-  npm test
-
+<br>
 
 ## <strong>Usage</strong>
-
 ---
+  fgdsh rty
 
-  User needs to run it in terminal
-
+<br>
 
 ## <strong>Contributing</strong>
-
 ---
+  fbdx grte
 
-  No third-party contributing allowed.
+<br>
+
+## <strong>Questions</strong>
+---
+If you have any additonal questions, contact me via:
+
+GitHub: <https://github.com/nfguhrty >
+
+Email: <hgfdyh6rtgfhgf >
+
+<br>
 

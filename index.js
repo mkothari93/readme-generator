@@ -77,6 +77,32 @@ const questions = [
                 return false;
             }
         }
+    },
+    {
+        type: 'input',
+        name: 'Username',
+        message: 'What is your GitHub username?',
+        validate: usernameInput => {
+            if (usernameInput){
+                return true;
+            } else {
+                console.log('Please enter your GitHub username!');
+                return false;
+            }
+        }
+    },
+    {
+        type: 'input',
+        name: 'Email',
+        message: 'What is your email address?',
+        validate: emailInput => {
+            if (emailInput){
+                return true;
+            } else {
+                console.log('Please enter your email address!');
+                return false;
+            }
+        }
     }
 ];
 
