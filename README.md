@@ -1,9 +1,9 @@
-# <strong>gdsfg a</strong>
+# <strong>Professional ReadMe Generator</strong>
 ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
 <br>
 
-## <strong>Table-of-Contents</strong>
+## <strong>Table of Contents</strong>
 ---
 * [Description](#description)
 
@@ -23,7 +23,7 @@
 
 ## <strong>Description</strong>
 ---
-  gdfg dfsg 
+  A README file will help other developers and/or employers understand different aspects of the project. A well-written README file consists of the project title, a table of contents, the project's description, installation instructions, usage instructions, license information, testing instruction, and contributing information. The purpose of this project is to help students and developers create a professional README file by asking users a series of questions on their projects. Based on user inputs, a professional README file will be created.
 
 <br>
 
@@ -41,25 +41,25 @@ The application is covered under the following license:
 
 ## <strong>Installation</strong>
 ---
-  gfgds g\
+  npm install inquirer, npm install path, npm install fs
 
 <br>
 
 ## <strong>Test</strong>
 ---
-  fgh sdf
+  Node index
 
 <br>
 
 ## <strong>Usage</strong>
 ---
-  fgdsh rty
+  User needs to run the following command in terminal to be prompted questions for creation of a README file: node index
 
 <br>
 
 ## <strong>Contributing</strong>
 ---
-  fbdx grte
+  No third-party contributions allowed currently.
 
 <br>
 
@@ -67,9 +67,9 @@ The application is covered under the following license:
 ---
 If you have any additonal questions, contact me via:
 
-GitHub: <https://github.com/nfguhrty >
+GitHub: <https://github.com/mkothari93>
 
-Email: <hgfdyh6rtgfhgf >
+Email: <mkothari.1993@gmail.com>
 
 <br>
 
