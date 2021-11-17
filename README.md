@@ -49,10 +49,10 @@ The application is covered under the following license:
 ---
   Node index
   
-  ![ReadMe Generator - 441x186](https://user-images.githubusercontent.com/90233589/142134620-6c780bff-eaf9-42b4-adf6-772b656d735d.gif)
+  ![ReadMe Generator - 422x178](https://user-images.githubusercontent.com/90233589/142135411-f9fe3b59-1778-47db-b740-d605ac51a5ae.gif)
 
   Video Link:
-  https://watch.screencastify.com/v/8hoZ3jMQgF5XBJNamIuf
+  https://watch.screencastify.com/v/WGcGzwXLgf0KJ4cr6e2S
 
 <br>
 
