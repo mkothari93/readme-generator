@@ -48,6 +48,9 @@ The application is covered under the following license:
 ## <strong>Test</strong>
 ---
   Node index
+  
+  Video Link:
+  https://watch.screencastify.com/v/8hoZ3jMQgF5XBJNamIuf
 
 <br>
 
